@@ -1,2 +1,4 @@
-# -discord-mass-dm-friendlist
-Simple python code to send messages to friends
+# DISCORD MASS DM FRIENDLIST
+
+- Paste your message on "message.txt".
+- Paste token account.
